@@ -1,0 +1,6 @@
+C:\Users\Tyler\Documents\Visual Studio 2012\Projects\FetchNetworkFile\FetchNetworkFile\bin\Debug\FetchNetworkFile.exe.config
+C:\Users\Tyler\Documents\Visual Studio 2012\Projects\FetchNetworkFile\FetchNetworkFile\bin\Debug\FetchNetworkFile.exe
+C:\Users\Tyler\Documents\Visual Studio 2012\Projects\FetchNetworkFile\FetchNetworkFile\bin\Debug\FetchNetworkFile.pdb
+C:\Users\Tyler\Documents\Visual Studio 2012\Projects\FetchNetworkFile\FetchNetworkFile\obj\Debug\FetchNetworkFile.csprojResolveAssemblyReference.cache
+C:\Users\Tyler\Documents\Visual Studio 2012\Projects\FetchNetworkFile\FetchNetworkFile\obj\Debug\FetchNetworkFile.exe
+C:\Users\Tyler\Documents\Visual Studio 2012\Projects\FetchNetworkFile\FetchNetworkFile\obj\Debug\FetchNetworkFile.pdb
